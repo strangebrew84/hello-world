@@ -1,2 +1,3 @@
 # hello-world
 My first repository
+My name is Nathan Wilson, I live in Washington state with my wife and two children.  I spent 10 years in the Army as an Infantryman before getting out in 2014 after multiple deployments to Iraq and Afghanistan.  I was enrolled in college recently for a Cyber Security degree but my cousin convinced me that I don't need a four year degree to get into the tech industry.  Just pain old hard work and determenation.  I have learned a little bit about java and I have taken some free codecademy classes in the past but it has been a while.  Now I am enrolled in some classes on Udemy and looking forward to learning HTML5 and JS as well as some other languages along the way.
